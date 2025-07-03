@@ -8,7 +8,6 @@ This repository hosts the Power BI analysis and executive report developed for P
 - Performance Ratings by Gender and Region
 - Gender Pay Gap by Department and Region
 - Salary Compliance with $90,000 Regulation
-- Total Compensation and Bonus Disparities
 
 ##  Report Highlights
 
@@ -18,26 +17,23 @@ This repository hosts the Power BI analysis and executive report developed for P
 - Female employees often receive “Very Good” ratings; males cluster around “Average”
 - Kaduna has highest payout concentration, often misaligned with equity goals
 
-## 📁 Repository Structure
+##  Repository Structure
 
-- `REPORT/` – Insights report 
-- `POWERBI/` – Power BI file (`.pbix`), cleaned employee datasets and dashboard visualization
+- `[Palmoria Insights.docx](https://github.com/user-attachments/files/21036957/Palmoria.Insights.docx)'
+ – Insights report 
+- `` – Power BI file (`.pbix`), cleaned employee datasets and dashboard visualization
   
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Power BI Desktop and Power Query Editor**
 - Microsoft Word (for report documentation)
 - GitHub
 
-## 📌 Recommendations Summary
+##  Recommendations Summary
 
 - Implement pay equity audits and standardized salary bands
 - Correct below-minimum salaries and ensure future compliance
 - Train managers on unbiased performance evaluations
 - Normalize compensation and bonuses regionally
 - Track and report progress annually
-
-## 📜 License
-
-MIT License
