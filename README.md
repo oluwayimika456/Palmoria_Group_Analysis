@@ -20,8 +20,8 @@ This repository hosts the Power BI analysis and executive report developed for P
 ##  Repository Structure
 
 - `[Palmoria Insights.docx](https://github.com/user-attachments/files/21036957/Palmoria.Insights.docx)'
- – Insights report 
-- `` – Power BI file (`.pbix`), cleaned employee datasets and dashboard visualization
+ –  Summary of Insights and Business Recommendations
+- `` – Power BI file containing cleaned employee datasets and dashboard visualization
   
 
 ##  Tools Used
